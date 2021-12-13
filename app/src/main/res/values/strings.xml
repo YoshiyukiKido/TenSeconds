@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ten Second Game</string>
+    <string name="default_message">10秒当てゲーム</string>
+    <string name="run_message">10.0秒でSTOP！</string>
+    <string name="clear_message">10秒ジャスト</string>
+    <string name="retry_message">もう一度挑戦！</string>
+    <string name="start_button">START</string>
+    <string name="stop_button">STOP</string>
+</resources>
